@@ -9,12 +9,10 @@ void main()
 {
   print("Enter value of num1 ");
   dynamic num1 = int.parse(stdin.readLineSync().toString());
-
   if(num1<0)
   {
     int square = num1*num1;
     print("the sqaure of number is $square");
   }
   print("goodbyee");
-
 }
