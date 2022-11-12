@@ -1,4 +1,7 @@
 void main()
 {
-    print("hello ");
+    String name ="Param patel";
+    print(name);
+    print(name.toUpperCase());
+    print(name.toLowerCase());
 }
