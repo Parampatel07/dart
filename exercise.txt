@@ -54,3 +54,5 @@ Write a program to print 4 traingle
 write a program to count negative value in list
 
 Write a programe to take input from user as int and prepare a list form it and print it as a list and list size should be 15 
+
+Write a programe to sort an list in ascending order remove duplicate value 
