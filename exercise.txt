@@ -13,3 +13,8 @@ develop anonymous function that will make sum of all only even value into intege
     develop function that will return simple interest of given amount,rate,year where rate and year is optional, rate will 12% if not given and year will be 1 if not given 
 
     
+create class that has following datamember
+amount, rate , year 
+create constrcutor for amount, rate and year, 
+rate and year can be optional
+create method that return simple interest 
