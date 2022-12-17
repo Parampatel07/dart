@@ -4,12 +4,12 @@ develop arrow function that will return qube of given number
 develop arrow function that will return simple interest of given amount,rate,year
 
 annonmus function 
-develop anonymous function to count odd and even values in numeric list 
-develop anonymous function that will make sum of all double value from double list 
-develop anonymous function that will make sum of all integer value from dynamic list 
-develop anonymous function that will make sum of all only even value into integer list 
+    develop anonymous function to count odd and even values in numeric list 
+    develop anonymous function that will make sum of all double value from double list 
+    develop anonymous function that will make sum of all integer value from dynamic list 
+    develop anonymous function that will make sum of all only even value into integer list 
 
-//optional positional argument concept
+    //optional positional argument concept
     develop function that will return simple interest of given amount,rate,year where rate and year is optional, rate will 12% if not given and year will be 1 if not given 
 
     
